@@ -1,6 +1,6 @@
 Package: getintrinio
 Type: Package
-Title: get_intrinio (http://github.com/andrewjamescarpenter/get_intrinio)
+Title: getintrinio (http://github.com/andrewjamescarpenter/get_intrinio)
 Description: Describe the package.
 Version: 0.1.0
 Author: Andrew Carpenter <acarpenter@intrinio.com>

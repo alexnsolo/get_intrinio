@@ -1,6 +1,6 @@
 #' Describe the package.
 #'
-#' @name get_intrinio
+#' @name getintrinio
 #' @import stringr
 #' @docType package
 NULL
