@@ -4,7 +4,7 @@
 
 #apple_prices <- get_intrinio_data("api.intrinio.com/prices?ticker=AAPL", "a543b029ec930ab0c7add95bfa1ea3ac", "ad905ac37ffc277c8184d90c6e2f36c4")
 
-get_intrinio_data <- function(URL, API_USERNAME, API_PASSWORD){
+get_intrinio <- function(URL, API_USERNAME, API_PASSWORD){
   
   #Require the package so you can use it make sure to install the httr package if you haven't
   require("httr")
